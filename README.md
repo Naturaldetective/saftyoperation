@@ -14,3 +14,7 @@ Maliciousfile/ 恶意文件
 流量样本/  进行测试的流量样本
  
 ````
+
+## Star History
+
+[![Star History Chart](https://api.star-history.com/svg?repos=Naturaldetective/saftyoperation&type=Date)](https://www.star-history.com/#Naturaldetective/saftyoperation&Date)
