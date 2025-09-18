@@ -1,0 +1,15 @@
+This directory contains 3 dirtycow script
+|
+|-- CVE-2016-5195 
+         |
+         |-comes from https://github.com/gbonacini/CVE-2016-5195
+         |-need the target mechine have the g++ tools to execue "make" , if not, choose another 
+|
+|-- dirtycow
+         |
+	 |-comes from https://github.com/firefart/dirtycow
+	 |-sometime it cannot work
+|
+|--CVE-2016-5195-master (CVE-2016-5195-master.zip)
+	 |
+	 |- if both of up are not work,can try this 
